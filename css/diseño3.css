@@ -1,0 +1,32 @@
+.rosa{
+	background-color:#FE2E64;
+	position:relative;
+
+}
+.azul{	
+	background-color:#0080FF; 
+	position: absolute;
+	left: 200px;
+	z-index: 1;
+
+	/*z-index
+	c/1 Sirve para que este cuadro se ponga por delante del de a un lado,
+	otros números hacen otras cosas (nvestigar). En algunos casos se utiliza para 
+	que las redes sociales sigan el cursor de la pantalla (se muevan con la vista del usuario)*/
+}
+.verde{
+	background-color:#9AFE2E;
+	position: relative;
+
+}
+.amarillo{
+	background-color:yellow;
+	position: relative;
+
+}
+div{
+	width:200px;
+	height:200px;
+	margin: 0;
+	padding: 0;
+}

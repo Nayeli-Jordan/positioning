@@ -1,0 +1,30 @@
+.rosa{
+	background-color:#FE2E64;
+	position:absolute;
+	left: 0;
+	top:0;
+}
+.azul{	
+	background-color:#0080FF; 
+	position: absolute;
+	right: 0;
+	top:0;
+}
+.verde{
+	background-color:#9AFE2E;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+.amarillo{
+	background-color:yellow;
+	position: absolute;
+	left: 0;
+	bottom: 0;
+}
+div{
+	width:200px;
+	height:200px;
+	margin: 0;
+	padding: 0;
+}

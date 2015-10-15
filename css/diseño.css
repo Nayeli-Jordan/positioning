@@ -1,0 +1,19 @@
+.rosa{
+	background-color:#FE2E64;
+	position:static;
+}
+.azul{	
+	background-color:#0080FF; 
+	position: relative;
+	left:200px;
+}
+.verde{
+	background-color:#9AFE2E;
+	position: static;
+}
+div{
+	width:200px;
+	height:200px;
+	margin: 0;
+	padding: 0;
+}
